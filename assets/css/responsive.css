@@ -1,0 +1,190 @@
+@media only screen and (max-width: 480px) {
+.getquotebtn.slider1 {
+    position: absolute;
+    left: 5%;
+    top: 25%;
+}
+
+.getquotebtn a {
+    font-size: 10px;
+    padding: 5px 15px;
+}
+
+.getquotebtn.slider2 {
+    position: absolute;
+    right: 0%;
+    top: 25%;
+}
+section#carshow {
+    padding: 20px;
+}
+
+.body-tagline h2 {
+    font-size: 28px;
+    margin: 20px 0px;
+}
+
+.carthumb {
+    height: auto;
+}
+
+span.firsttext {
+    font-size: 20px;
+}
+
+span.secondtext {
+    font-size: 18px;
+}
+
+span.thirdtext {
+    font-size: 17px;
+    color: black;
+    text-shadow: 1px 1px 15px white;
+}
+
+section.traffic123 {
+    padding: 20px;
+}
+
+.howitworks .title {
+    font-size: 30px;
+}
+
+.howitworks .tagline {
+    font-size: 21px;
+}
+
+.grayline {
+    display: none;
+}
+
+.trafficlight {
+    width: 100%;
+}
+
+.trafficlight .col-sm-4 {
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+}
+.cardetails h3 {
+    font-size: 20px;
+    margin: 0;
+    display: block;
+}
+
+.cardetails {
+    position: relative;
+    height: auto;
+}
+.top-right img {
+    width: 100%;
+}
+section#creditsection {
+    padding: 10px;
+}
+
+.creditbutton button {
+    padding: 5px;
+    font-size: 11px;
+    height: auto;
+}
+
+.creditbutton {
+    margin-top: 50px;
+}
+section#all-vehicles {
+    padding: 10px;
+    text-align: center;
+}
+
+.vehiclelist h2 {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+}
+section#about-us {
+    padding: 15px;
+}
+
+.about-columns-3.about-buttons .col-xs-12 {
+    margin-top: 25px;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 790px) {
+ul.nav.navbar-nav li a {
+    font-size: 15px;
+}
+.getquotebtn.slider1 {
+    position: absolute;
+    left: 10%;
+    top: 40%;
+}
+.getquotebtn.slider2 {
+    position: absolute;
+    right: 5%;
+    top: 40%;
+}
+section#carshow {
+    padding: 10px;
+}
+
+.body-tagline h2 {
+    font-size: 40px;
+}
+
+.cardetails {
+    position: relative;
+    height: auto;
+}
+
+.cardetails h3 {
+    display: block;
+    margin: 0;
+    font-size: 25px;
+}
+
+.carthumb {
+    height: 275px;
+}
+section.traffic123 {
+    padding: 10px;
+}
+
+.trafficlight {
+    width: 100%;
+}
+section#creditsection {
+    padding: 10px;
+    padding-top: 50px;
+}
+.creditbutton button {
+    height: auto;
+}
+section#all-vehicles {
+    padding: 10px;
+}
+
+span.number1 {
+    width: 55px;
+    padding: 5px;
+}
+
+.manufacturer-logos a {
+    width: 100px;
+}
+section#about-us {
+    padding: 10px;
+}
+
+.linkbg a {
+    font-size: 15px;
+}
+
+.about-columns-3.about-buttons {
+    margin-bottom: 50px;
+}
+}
